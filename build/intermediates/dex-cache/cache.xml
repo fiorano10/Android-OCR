@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/pre-dexed/debug/classes-c9462483940d4bb09217c790c50daf78c72c7e9a.jar" />
+    </item>
+    <item
+        jar="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/pre-dexed/debug/classes-c29ed1e9264e6cbd1c56472ee8044f5843448eee.jar" />
+    </item>
+    <item
+        jar="/Users/VibhorSood/Downloads/adt-bundle-mac-x86_64-20140624/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-87b4681de0d016ca4d061513763e7a8ffce52fdb.jar" />
+    </item>
+    <item
+        jar="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/VibhorSood/AndroidStudioProjects/OCR/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-26ee327e8c35fe4b1c440d94db3b8d74a0d0a11f.jar" />
+    </item>
+
+</items>
